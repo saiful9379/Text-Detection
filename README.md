@@ -8,6 +8,6 @@ Test Result,
 
 Test Result
 
-![Test 1](log/OCR Documents(8).jpg)
+![Test 1](log/OCRDocuments(8).jpg)
 
 ![Test 2](log/target-319x383.png)
