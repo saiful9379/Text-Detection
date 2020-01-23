@@ -7,6 +7,10 @@ Test Result,
 - tensorflow==1.13.1 or tensorflow-gpu == 1.15
 
 # Test Result
+Another appoches detection the text region
+
+![Test 1](log/detection.png)
+
 ### Test Case : 1
 ![Test 1](log/1.jpg)
 ### Test Case : 2
