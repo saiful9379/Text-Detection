@@ -7,6 +7,8 @@ Test Result,
 - tensorflow==1.13.1 or tensorflow-gpu == 1.15
 
 # Test Result
+![test_1](log/contour_0.jpg)
+
 Another appoches detection the text region
 
 ![Test 1](log/detection.png)
