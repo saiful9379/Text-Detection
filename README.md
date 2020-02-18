@@ -1,5 +1,5 @@
 # Text-Detection
-Text detection is the common functionality for a OCR. So there are lot of approaches to detect text that are already uses and measure their performance.I follow EAST Text detection approaches to Detect text of my own custom image dataset.
+Text detection is the common functionality for a OCR. So there are lot of approaches to detect text that are already uses and measure their performance.I try follow state of the art Text detection approaches to Detect text of my own custom image dataset.
 Test Result,
 # Environment
 - python == 3.5
